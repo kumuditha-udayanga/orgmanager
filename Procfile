@@ -1,3 +1,3 @@
-release: cp .env.examlpe .env
+release: touch .env
 web: php artisan app:install
 
