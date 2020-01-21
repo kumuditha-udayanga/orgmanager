@@ -1,3 +1,2 @@
-web: php artisan app:install
-web: vendor/bin/heroku-php-apache2 public/
+web: cp .env.examlpe .env && php artisan app:install &&  vendor/bin/heroku-php-apache2 public/
 
