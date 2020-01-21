@@ -86,3 +86,4 @@ For information about all the people that have helped to make this possible, che
 ## License
 
 Licensed under the Mozilla Public License (MPL). For more information, checkout the [LICENSE](LICENSE.md).
+
